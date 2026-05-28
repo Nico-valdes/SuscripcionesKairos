@@ -1,0 +1,4 @@
+allowBuilds:
+  ngrok: false
+  sharp: false
+  unrs-resolver: false
